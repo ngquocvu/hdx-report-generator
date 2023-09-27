@@ -13,12 +13,19 @@ const generateData = async (country) => {
     const finish = Date.now();
     const time = (finish - start) / 1000;
     return {
-      country: name + ' - ' + code3,
-      success: true,
-      time: time,
+      Country: name,
+      Code3: code3,
+      'Is success?': true,
+      Time: time,
     };
   } catch (e) {
-    return { country: name, success: false, error: e.message, time: 0 };
+    return {
+      Country: name,
+      Code3: code3,
+      'Is success?': false,
+      'Error message': e.message,
+      Time: 0,
+    };
   }
 };
 

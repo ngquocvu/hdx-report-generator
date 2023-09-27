@@ -1,138 +1,209 @@
 [
+  { "Country": "Algeria", "Code3": "DZA", "Is success?": true, "Time": 5.742 },
+  { "Country": "Angola", "Code3": "AGO", "Is success?": true, "Time": 14.108 },
+  { "Country": "Benin", "Code3": "BEN", "Is success?": true, "Time": 4.498 },
   {
-    "country": "Botswana",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Botswana",
+    "Code3": "BWA",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
   },
   {
-    "country": "Cape Verde",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Burkina Faso",
+    "Code3": "BFA",
+    "Is success?": true,
+    "Time": 6.92
+  },
+  { "Country": "Burundi", "Code3": "BDI", "Is success?": true, "Time": 5.369 },
+  { "Country": "Cameroon", "Code3": "CMR", "Is success?": true, "Time": 8.124 },
+  {
+    "Country": "Cape Verde",
+    "Code3": "CPV",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
   },
   {
-    "country": "Central African Republic",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Central African Republic",
+    "Code3": "VAF",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
+  },
+  { "Country": "Chad", "Code3": "CAF", "Is success?": true, "Time": 4.83 },
+  { "Country": "Comoros", "Code3": "TCD", "Is success?": true, "Time": 11.721 },
+  { "Country": "Congo", "Code3": "COM", "Is success?": true, "Time": 5.804 },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "Code3": "COG",
+    "Is success?": true,
+    "Time": 5.639
   },
   {
-    "country": "Egypt",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Côte d'Ivoire",
+    "Code3": "COD",
+    "Is success?": true,
+    "Time": 5.837
+  },
+  { "Country": "Djibouti", "Code3": "CIV", "Is success?": true, "Time": 5.371 },
+  {
+    "Country": "Egypt",
+    "Code3": "DJI",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
   },
   {
-    "country": "Gambia",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Equatorial Guinea",
+    "Code3": "EGY",
+    "Is success?": true,
+    "Time": 14.727
+  },
+  { "Country": "Eritrea", "Code3": "GNQ", "Is success?": true, "Time": 5.282 },
+  { "Country": "Ethiopia", "Code3": "ERI", "Is success?": true, "Time": 7.348 },
+  { "Country": "Gabon", "Code3": "ETH", "Is success?": true, "Time": 4.803 },
+  {
+    "Country": "Gambia",
+    "Code3": "GAB",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
+  },
+  { "Country": "Ghana", "Code3": "GMB", "Is success?": true, "Time": 5.016 },
+  { "Country": "Guinea", "Code3": "GIN", "Is success?": true, "Time": 2.981 },
+  {
+    "Country": "Guinea-Bissau",
+    "Code3": "GNB",
+    "Is success?": true,
+    "Time": 4.81
+  },
+  { "Country": "Kenya", "Code3": "KEN", "Is success?": true, "Time": 5.621 },
+  {
+    "Country": "Lesotho",
+    "Code3": "LSO",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
+  },
+  { "Country": "Liberia", "Code3": "LBR", "Is success?": true, "Time": 10.774 },
+  { "Country": "Libya", "Code3": "LBY", "Is success?": true, "Time": 10.791 },
+  {
+    "Country": "Madagascar",
+    "Code3": "MDG",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
+  },
+  { "Country": "Mali", "Code3": "MLI", "Is success?": true, "Time": 11.87 },
+  { "Country": "Malawi", "Code3": "MWI", "Is success?": true, "Time": 19.715 },
+  {
+    "Country": "Mauritania",
+    "Code3": "MRT",
+    "Is success?": true,
+    "Time": 9.656
   },
   {
-    "country": "Lesotho",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Mauritius",
+    "Code3": "MUS",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
   },
   {
-    "country": "Madagascar",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Mayotte",
+    "Code3": "MYT",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
+  },
+  { "Country": "Morocco", "Code3": "MAR", "Is success?": true, "Time": 12.985 },
+  {
+    "Country": "Mozambique",
+    "Code3": "MOZ",
+    "Is success?": true,
+    "Time": 14.494
+  },
+  { "Country": "Namibia", "Code3": "NAM", "Is success?": true, "Time": 13.816 },
+  {
+    "Country": "Niger",
+    "Code3": "NER",
+    "Is success?": false,
+    "Error message": "Request failed with status code 500",
+    "Time": 0
+  },
+  { "Country": "Nigeria", "Code3": "NGA", "Is success?": true, "Time": 9.876 },
+  {
+    "Country": "Réunion",
+    "Code3": "REU",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
   },
   {
-    "country": "Mauritius",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Rwanda",
+    "Code3": "RWA",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
   },
   {
-    "country": "Mayotte",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "São Tomé and Príncipe",
+    "Code3": "STP",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
+  },
+  { "Country": "Senegal", "Code3": "SEN", "Is success?": true, "Time": 11.728 },
+  {
+    "Country": "Seychelles",
+    "Code3": "SYC",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
   },
   {
-    "country": "Niger",
-    "success": false,
-    "error": "Request failed with status code 500",
-    "time": 0
+    "Country": "Sierra Leone",
+    "Code3": "SLE",
+    "Is success?": true,
+    "Time": 11.587
+  },
+  { "Country": "Somalia", "Code3": "SOM", "Is success?": true, "Time": 10.321 },
+  {
+    "Country": "South Africa",
+    "Code3": "ZAF",
+    "Is success?": true,
+    "Time": 18.633
   },
   {
-    "country": "Réunion",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "South Sudan",
+    "Code3": "SSD",
+    "Is success?": true,
+    "Time": 9.92
+  },
+  { "Country": "Sudan", "Code3": "SDN", "Is success?": true, "Time": 12.397 },
+  {
+    "Country": "Swaziland",
+    "Code3": "SWZ",
+    "Is success?": true,
+    "Time": 8.871
   },
   {
-    "country": "Rwanda",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Tanzania",
+    "Code3": "TZA",
+    "Is success?": false,
+    "Error message": "Request failed with status code 404",
+    "Time": 0
   },
+  { "Country": "Togo", "Code3": "TGO", "Is success?": true, "Time": 8.863 },
+  { "Country": "Tunisia", "Code3": "TUN", "Is success?": true, "Time": 6.105 },
+  { "Country": "Uganda", "Code3": "UGA", "Is success?": true, "Time": 10.499 },
   {
-    "country": "São Tomé and Príncipe",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
+    "Country": "Western Sahara",
+    "Code3": "ESH",
+    "Is success?": true,
+    "Time": 3.167
   },
-  {
-    "country": "Seychelles",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
-  },
-  {
-    "country": "Tanzania",
-    "success": false,
-    "error": "Request failed with status code 404",
-    "time": 0
-  },
-  { "country": "Benin - BEN", "success": true, "time": "2.136s" },
-  { "country": "Gabon - ETH", "success": true, "time": "2.144s" },
-  { "country": "Algeria - DZA", "success": true, "time": "2.235s" },
-  { "country": "Ghana - GMB", "success": true, "time": "2.388s" },
-  { "country": "Guinea-Bissau - GNB", "success": true, "time": "2.646s" },
-  { "country": "Guinea - GIN", "success": true, "time": "2.667s" },
-  { "country": "Eritrea - GNQ", "success": true, "time": "2.696s" },
-  { "country": "Liberia - LBR", "success": true, "time": "2.697s" },
-  { "country": "Chad - CAF", "success": true, "time": "2.718s" },
-  { "country": "Comoros - TCD", "success": true, "time": "2.744s" },
-  { "country": "Congo - COM", "success": true, "time": "2.753s" },
-  { "country": "Kenya - KEN", "success": true, "time": "2.949s" },
-  { "country": "Djibouti - CIV", "success": true, "time": "2.985s" },
-  { "country": "Côte d'Ivoire - COD", "success": true, "time": "3.032s" },
-  {
-    "country": "Democratic Republic of the Congo - COG",
-    "success": true,
-    "time": "3.073s"
-  },
-  { "country": "Burundi - BDI", "success": true, "time": "3.23s" },
-  { "country": "Cameroon - CMR", "success": true, "time": "3.735s" },
-  { "country": "Angola - AGO", "success": true, "time": "4.171s" },
-  { "country": "Ethiopia - ERI", "success": true, "time": "4.582s" },
-  { "country": "Western Sahara - ESH", "success": true, "time": "4.87s" },
-  { "country": "Burkina Faso - BFA", "success": true, "time": "6.181s" },
-  { "country": "Zimbabwe - ZWE", "success": true, "time": "6.438s" },
-  { "country": "Equatorial Guinea - EGY", "success": true, "time": "6.453s" },
-  { "country": "Zambia - ZMB", "success": true, "time": "6.866s" },
-  { "country": "Togo - TGO", "success": true, "time": "8.419s" },
-  { "country": "Swaziland - SWZ", "success": true, "time": "8.755s" },
-  { "country": "Somalia - SOM", "success": true, "time": "9.592s" },
-  { "country": "Uganda - UGA", "success": true, "time": "9.981s" },
-  { "country": "South Sudan - SSD", "success": true, "time": "10.18s" },
-  { "country": "Sudan - SDN", "success": true, "time": "10.2s" },
-  { "country": "Sierra Leone - SLE", "success": true, "time": "10.561s" },
-  { "country": "Mauritania - MRT", "success": true, "time": "11.155s" },
-  { "country": "Nigeria - NGA", "success": true, "time": "11.193s" },
-  { "country": "Senegal - SEN", "success": true, "time": "11.212s" },
-  { "country": "Mali - MLI", "success": true, "time": "11.497s" },
-  { "country": "Namibia - NAM", "success": true, "time": "11.585s" },
-  { "country": "Tunisia - TUN", "success": true, "time": "11.747s" },
-  { "country": "Morocco - MAR", "success": true, "time": "11.76s" },
-  { "country": "Libya - LBY", "success": true, "time": "12.567s" },
-  { "country": "Mozambique - MOZ", "success": true, "time": "15.374s" },
-  { "country": "South Africa - ZAF", "success": true, "time": "16.989s" },
-  { "country": "Malawi - MWI", "success": true, "time": "23.584s" }
+  { "Country": "Zambia", "Code3": "ZMB", "Is success?": true, "Time": 3.384 },
+  { "Country": "Zimbabwe", "Code3": "ZWE", "Is success?": true, "Time": 4.172 }
 ]
