@@ -16,7 +16,7 @@ Source code: `https://github.com/Nguyen-Quoc-Vu/hdx-report-generator`
 2. Check out the "main" branch. `git checkout main`
 3. Install dependencies: `npm install`
 4. Start to generate the report: `node index.js`
-5. Check for the new-generated file in the same source code folder `hdx_country_boundary_report.json`
+5. Open the new-generated file in the same source code folder `hdx_country_boundary_report.json`
 
 ### Generated Report For African Country (Last updated: 27.09.2023)
 
